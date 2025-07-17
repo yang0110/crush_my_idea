@@ -1,7 +1,7 @@
 from pdf_manager import PDF2Image
 import os
 
-pdf_folder = '/home/ubuntu/workspace/medical_rag/pdfs'
+pdf_folder = './data/'
 pdf_path_list = [os.path.join(pdf_folder, pdf_path) for pdf_path in os.listdir(pdf_folder) if pdf_path.endswith('.pdf')]
 print(f"Found {len(pdf_path_list)} PDF files in {pdf_folder}")
 
