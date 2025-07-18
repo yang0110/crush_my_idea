@@ -1,2 +1,0 @@
-export TAVILY_API_KEY=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
-export JINA_API_KEY=jina_0bb008e63555468291f2c2bbf3cd5f09C8gNMVFoDYW2tpVBULWjlpl_fWmt
