@@ -1,0 +1,4 @@
+each file form one collection
+the links between files form a standalone graph
+The retriver first get to know the graph and decide which collection (node) to search 
+the linked collection (nodes) are searched as well
